@@ -1,0 +1,7 @@
+name: license_plates
+channels:
+  - defaults
+dependencies:
+  - python
+  - conda-forge::opencv
+  - conda-forge::matplotlib
