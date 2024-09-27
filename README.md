@@ -57,7 +57,8 @@ In case that you can't see all the branches, run the command:
 ```bash
 git fetch --all
 ```
-
+## Pytesseract Installation Guide
+To succesfully install Pytesseract you must download the program from the following [link](https://github.com/UB-Mannheim/tesseract/wiki)
 
 ## Contributors
 Sara Martín Núñez -- Sara.MartinNu@autonoma.cat
