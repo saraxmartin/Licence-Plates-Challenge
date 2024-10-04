@@ -7,3 +7,4 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::scikit-image
   - conda-forge::imutils
+  - confa-forge::scikit-learn
