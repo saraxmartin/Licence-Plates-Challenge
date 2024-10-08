@@ -1,0 +1,6 @@
+Number of Neighbors (Numbers Model): 4
+Number of Neighbors (Letters Model): 1
+Character-Level Accuracy: 85.71% (192 correct out of 224)
+Numbers Accuracy: 81.25% (104 correct out of 128)
+Letters Accuracy: 91.67% (88 correct out of 96)
+License Plate Accuracy: 43.75% (14 correct out of 32)
