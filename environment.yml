@@ -10,3 +10,5 @@ dependencies:
   - conda-forge::scikit-learn
   - pytorch::pytorch
   - pytorch::torchvision
+  - pandas
+  - conda-forge::pytesseract
