@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+OCR_models/SVM/svm_only.pkl filter=lfs diff=lfs merge=lfs -text
