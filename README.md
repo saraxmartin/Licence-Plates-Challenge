@@ -1,8 +1,6 @@
 # Licence-Plates-Challenge
 Detection of License Plates
 
-## Code structure
-
 ## How To Use
 To clone and run this project, you will need Git and Conda installed on your computer.
 An alternative of conda is have installed the packages on the environment.yml file.
